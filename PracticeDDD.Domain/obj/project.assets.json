@@ -852,6 +852,16 @@
             "rid": "win"
           }
         }
+      },
+      "PracticeDDD.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/PracticeDDD.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PracticeDDD.Domain.dll": {}
+        }
       }
     }
   },
@@ -3021,11 +3031,18 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "PracticeDDD.Domain/1.0.0": {
+      "type": "project",
+      "path": "../PracticeDDDnet6/PracticeDDD.Domain.csproj",
+      "msbuildProject": "../PracticeDDDnet6/PracticeDDD.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.3"
+      "Microsoft.EntityFrameworkCore >= 7.0.3",
+      "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.3",
+      "PracticeDDD.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3059,7 +3076,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\simon.padron\\Desktop\\Estudio\\autoestudio\\PracticeDDD.API\\PracticeDDDnet6\\PracticeDDD.Domain.csproj": {
+              "projectPath": "C:\\Users\\simon.padron\\Desktop\\Estudio\\autoestudio\\PracticeDDD.API\\PracticeDDDnet6\\PracticeDDD.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -3072,6 +3093,10 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[7.0.3, )"
+          },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
             "version": "[7.0.3, )"
