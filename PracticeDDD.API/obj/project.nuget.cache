@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ocVh66TxfuVz26EhrJLv8itYJKw9C786whzqOpkXsnt9y8/7Cv/fEHe8/KH7OQQVIAXNNTt8fgnNzvz+VQa9fQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\simon.padron\\Desktop\\Estudio\\autoestudio\\PracticeDDD.API\\PracticeDDD.API\\PracticeDDD.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\simon.padron\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\simon.padron\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\simon.padron\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\simon.padron\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\simon.padron\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\simon.padron\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
