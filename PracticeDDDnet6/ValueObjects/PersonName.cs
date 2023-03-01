@@ -17,9 +17,9 @@ namespace PracticeDDD.Domain.ValueObjects
         }
         private static void validate(string value)
         {
-            if (value == null)
+            if (value == "")
             {
-                throw new ArgumentNUllException("el valor no puede ser nulo");
+                throw new ArgumentNullException("el valor no puede ser nulo");
             }
         }
     }
