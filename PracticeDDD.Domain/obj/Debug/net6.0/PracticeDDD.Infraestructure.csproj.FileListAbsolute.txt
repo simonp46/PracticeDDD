@@ -1,0 +1,5 @@
+C:\Users\simon.padron\Desktop\Estudio\autoestudio\PracticeDDD.API\PracticeDDD.Domain\obj\Debug\net6.0\PracticeDDD.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\simon.padron\Desktop\Estudio\autoestudio\PracticeDDD.API\PracticeDDD.Domain\obj\Debug\net6.0\PracticeDDD.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon.padron\Desktop\Estudio\autoestudio\PracticeDDD.API\PracticeDDD.Domain\obj\Debug\net6.0\PracticeDDD.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\simon.padron\Desktop\Estudio\autoestudio\PracticeDDD.API\PracticeDDD.Domain\obj\Debug\net6.0\PracticeDDD.Infraestructure.AssemblyInfo.cs
+C:\Users\simon.padron\Desktop\Estudio\autoestudio\PracticeDDD.API\PracticeDDD.Domain\obj\Debug\net6.0\PracticeDDD.Infraestructure.csproj.CoreCompileInputs.cache
